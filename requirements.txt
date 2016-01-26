@@ -1,0 +1,2 @@
+django
+git+https://github.com/onurmatik/socialsuite.git
