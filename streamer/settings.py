@@ -11,11 +11,11 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    'users',
-    'tokens',
-    'tweets',
-    'streams',
-    'logs',
+    'social.users',
+    'social.tokens',
+    'social.tweets',
+    'social.streams',
+    'social.logs',
 
     'streamer.profiles',
 ]
